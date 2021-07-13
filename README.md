@@ -2,9 +2,9 @@
 Reads a text file and sums up each individual letter. Outputs the sum of each letter sorted by highest count. This program will report which letter is used most commonly and which is used the least.
 
 
-Example Usage on the United States Decleration of Independence:
+Example Usage on the United States Decleration of Independence. We can see that 'e' is the most frequent letter in the decleration:
 
-CharacterCounter.exe DeclarationOfIndependence.txt
+<pre>CharacterCounter.exe DeclarationOfIndependence.txt
 Sorted by letter:
 
 a - 483
@@ -64,3 +64,4 @@ q - 6
 z - 4
 
 Total Time Processing: 00:00:00.0668184
+</pre>
